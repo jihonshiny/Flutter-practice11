@@ -13,8 +13,7 @@
 [발표 자료 보기](https://www.canva.com/design/DAHBrlpw0UM/JgdZXS12rlFP7sHlYnwK-g/view?utm_content=DAHBrlpw0UM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb6040c1d1c)
 [시연영상 보기](https://youtube.com/shorts/TlmBuIPKnLc?feature=share)
 
-
----
+</div>
 
 ## 목차
 
