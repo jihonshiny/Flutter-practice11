@@ -422,7 +422,7 @@ flutter build ios --release
 
 **Made by SmartRoute Team**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/smartroute?style=social)](https://github.com/yourusername/smartroute)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/smartroute?style=social)](https://github.com/jihonshiny/smartroute)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/smartroute?style=social)](https://github.com/yourusername/smartroute/fork)
 
 </div>
