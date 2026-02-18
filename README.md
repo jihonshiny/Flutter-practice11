@@ -27,7 +27,6 @@
 - [실행 방법](#실행-방법)
 - [프로젝트 성과](#프로젝트-성과)
 - [향후 계획](#향후-계획)
-- [팀 구성](#팀-구성)
 - [라이선스](#라이선스)
 
 ---
@@ -405,10 +404,7 @@ flutter build ios --release
 
 ## 문의
 
-- Email: your.email@example.com
-- GitHub Issues: [이슈 등록](https://github.com/yourusername/smartroute/issues)
-- GitHub Discussions: [토론 참여](https://github.com/yourusername/smartroute/discussions)
-
+- Email: shiny7y7r@gmail.com
 ---
 
 ## 참고 자료
