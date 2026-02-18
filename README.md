@@ -14,8 +14,6 @@
 [시연영상 보기](https://youtube.com/shorts/TlmBuIPKnLc?feature=share)
 
 
-
-
 ---
 
 ## 목차
