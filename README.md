@@ -15,6 +15,12 @@
 
 </div>
 
+## 프로젝트 미리보기
+
+<div align="center">
+  <img src="assets/images/smartroute_preview.png" width="900"/>
+</div>
+
 ## 목차
 
 - [프로젝트 개요](#프로젝트-개요)
