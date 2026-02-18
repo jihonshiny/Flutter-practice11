@@ -11,8 +11,10 @@
 **여러 목적지를 한 번에 입력하고, AI가 최적의 이동 순서를 계산합니다**
 
 [발표 자료 보기](https://www.canva.com/design/DAHBrlpw0UM/JgdZXS12rlFP7sHlYnwK-g/view?utm_content=DAHBrlpw0UM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb6040c1d1c)
+[시연영상 보기](https://youtube.com/shorts/TlmBuIPKnLc?feature=share)
 
-</div>
+
+
 
 ---
 
